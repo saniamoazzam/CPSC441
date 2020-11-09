@@ -1,9 +1,7 @@
 /*
 Name: Sania Moazzam
-Tutorial: 01
-UCID: 30018572
-
 Reverse Server - UDP protocol
+This server reverses the string
 */
 
 #include <unistd.h>
