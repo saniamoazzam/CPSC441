@@ -1,9 +1,7 @@
 /*
 Name: Sania Moazzam
-Tutorial: 01
-UCID: 30018572
-
 Upper Server - UDP protocol
+This server capitalizes all letters in the string
 */
 
 #include <unistd.h>
