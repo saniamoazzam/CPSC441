@@ -1,9 +1,5 @@
 /*
 Name: Sania Moazzam
-Tutorial: 01
-UCID: 30018572
-File: routing.cpp
-
 CPSC 441 Assignment 3
 
 This assignment is a discrete-event network simulation problem. 
