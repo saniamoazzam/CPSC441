@@ -1,9 +1,7 @@
 /*
 Name: Sania Moazzam
-Tutorial: 01
-UCID: 30018572
-
 Lower Server - UDP protocol
+This server changes all letters to lower case
 */
 
 #include <unistd.h>
