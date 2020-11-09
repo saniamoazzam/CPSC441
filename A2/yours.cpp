@@ -1,8 +1,5 @@
 /*
 Name: Sania Moazzam
-Tutorial: 01
-UCID: 30018572
-
 Your Server - UDP protocol
 Description: This is a multiple shift cipher. Letters in the alphabet are shifted with a shift number.
              The number depends on if the letter falls in one of the four cases: vowels, common 
