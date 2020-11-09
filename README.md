@@ -1,1 +1,1 @@
-# CPSC441
+# CPSC441 - Computer Networks 
