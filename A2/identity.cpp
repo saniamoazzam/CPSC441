@@ -1,6 +1,7 @@
 /*
 Name: Sania Moazzam
 Echo Identity Server - UDP protocol
+This server echos the inputted string
 */
 
 #include <unistd.h>
