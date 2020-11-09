@@ -1,6 +1,7 @@
 /*
 Name: Sania Moazzam
 Caesar Server - UDP protocol
+This server encrypts the inputted string by using a shift key=13 to shift the letters
 */
 
 #include <unistd.h>
